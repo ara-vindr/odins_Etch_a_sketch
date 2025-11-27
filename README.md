@@ -1,2 +1,3 @@
 # odins_Etch_a_sketch
 A simple html,css and javascript project
+Its very basic and new features will be implemented soon....
