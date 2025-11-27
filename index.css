@@ -1,0 +1,57 @@
+.container{
+ height: 512px;
+ width: 512px;
+ background-color: rgb(254, 254, 255);
+ display: flex;
+ flex-direction: row;
+ flex-wrap:  wrap;
+ border: 3px solid rgb(5, 81, 245);
+ border-radius: 10px;
+ margin: auto;
+ align-content: flex-start;
+ margin-top: 25px;
+ box-shadow:  3px 3px 3px rgb(2, 39, 247), -3px -3px 3px rgb(2, 39, 247);
+ 
+}
+
+.insideBox1{
+    /* border: .5px solid #d1d5db; */
+    box-shadow: 0.5px 0.5px 0.5px black;
+    width: 32px;
+    height: 32px;
+    box-sizing: border-box;
+    
+}
+.gridBtn{
+    height: 40px;
+    width: 250px;
+    border-radius: 19px;
+    margin: auto;
+    display: block;
+    font-size: 15px;
+     font-weight: bolder;
+     color: firebrick;
+     
+}
+.resetBtn{
+    height: 40px;
+    width: 250px;
+    border-radius: 19px;
+    margin: auto;
+    display: block;
+    font-size: 15px;
+    margin-top: 5px;
+    font-weight: bolder;
+}
+
+ .colorBox{
+     background-color: black;
+} 
+
+
+/* @keyframes gridBox {
+       
+     0%{background-color: rgb(0, 0, 0);}
+
+} */
+   
